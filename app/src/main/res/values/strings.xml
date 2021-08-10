@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UgCares</string>
+    <string name="site">SITE</string>
+    <string name="fileNo">FILE NO</string>
+    <string name="ministry">MINISTRY OF HEALTH</string>
+    <string name="clientName">NAME OF CLIENT</string>
+    <string name="phoneNo">PHONE NO</string>
+    <string name="web">www.aidshealth.org</string>
+    <string name="New">Create New Account?</string>
+    <string name="SignIn">SignIn</string>
+</resources>
