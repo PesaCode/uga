@@ -1,11 +1,30 @@
 <resources>
     <string name="app_name">UgCares</string>
-    <string name="site">SITE</string>
-    <string name="fileNo">FILE NO</string>
+    <string name="site">Site</string>
+    <string name="fileNo">File Number</string>
     <string name="ministry">MINISTRY OF HEALTH</string>
-    <string name="clientName">NAME OF CLIENT</string>
-    <string name="phoneNo">PHONE NO</string>
+    <string name="clientName">Client Name</string>
+    <string name="phoneNo">Phone Number</string>
+    <string name="email">Email</string>
     <string name="web">www.aidshealth.org</string>
+    <string name="content">New Client</string>
+    <string name="SignUp">SignUp</string>
     <string name="New">Create New Account?</string>
-    <string name="SignIn">SignIn</string>
+    <string name="SignIn">Login</string>
+
+    <!--    Client Details-->
+    <string name="age">Age</string>
+    <string name="Address">Address</string>
+    <string name="arvDate">Date Of ARV</string>
+    <string name="subCounty">SubCounty</string>
+    <string name="next">Next Of Kin</string>
+    <string name="name">Names</string>
+    <string name="relation">Relationship to Client</string>
+    <string name="gender">Gender</string>
+    <string name="m">M</string>
+    <string name="f">F</string>
+    <string name="Next">Next</string>
+    <string name="Parish">Parish</string>
+    <string name="telephone">Telephone</string>
+    <string name="lc1">LC1/Village</string>
 </resources>

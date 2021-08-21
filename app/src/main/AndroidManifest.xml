@@ -9,7 +9,6 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.UgCares">
-        <activity android:name=".ClientSignInForm"></activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -17,6 +16,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".ClientDetails" />
+        <activity android:name=".NextOfKin" />
+
+        <activity android:name=".Arv" />
+        <activity android:name=".ClientSignInForm" />
+
     </application>
 
 </manifest>
